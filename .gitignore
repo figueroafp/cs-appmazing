@@ -35,3 +35,4 @@ build/
 /src/main/resources/dbtemplateDB.log
 /src/main/resources/dbtemplateDB.properties
 /src/main/resources/dbtemplateDB.script
+/src/main/resources/db/templateDB.properties
